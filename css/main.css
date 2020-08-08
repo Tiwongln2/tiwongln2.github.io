@@ -43,5 +43,6 @@ ul.posts li {
 }
 
 #pic1 {
-    margin: 20px auto; 
+    width: 200px;
+    height: 200px; 
 }
