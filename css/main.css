@@ -42,6 +42,11 @@ ul.posts li {
     list-style: none;
 }
 
+.homebody {
+    color: #000; 
+    background-color: teal;
+}
+
 #pic1 {
     width: 200px;
     height: 200px; 
