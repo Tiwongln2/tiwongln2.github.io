@@ -55,7 +55,7 @@ ul.posts li {
 }
 
 #pic1 {
-    width: 33%;
+    width: auto;
     height: 200px;
     align-self: center;
 
