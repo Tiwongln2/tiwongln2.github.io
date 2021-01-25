@@ -23,9 +23,7 @@ body {
     padding-bottom: 30px;
 }
 .sidebar a:hover {
-    background-color: #fff;
-    color: black;
-    width: 200px; 
+    color: blue;
 }
 
 nav ul, footer ul {
