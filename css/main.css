@@ -25,6 +25,7 @@ body {
 .sidebar a:hover {
     background-color: #fff;
     color: black;
+    width: 200px; 
 }
 
 nav ul, footer ul {
