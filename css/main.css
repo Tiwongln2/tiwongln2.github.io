@@ -62,8 +62,7 @@ ul.posts li {
 }
 
 .homebody {
-    color: #000;
-    background-color: teal;
+    width: 100%; 
 }
 
 .logos {
@@ -74,5 +73,5 @@ ul.posts li {
 }
 .side-by-side-vid-image {
     width: 33%;
-    height: auto; 
+    height: auto;
 }
