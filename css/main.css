@@ -3,6 +3,25 @@ body {
     width: 70%;
 }
 
+.sidebar {
+
+    height: 100%;
+    width: 150px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #000;
+    overflow-x: hidden;
+    padding-top: 25px;
+    color: white;
+}
+
+.sidebar a:hover {
+    background-color: #fff;
+    color: black;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -24,27 +43,6 @@ p {
     color: #333;
 }
 
-a {
-    color: black; 
-}
-.sidebar {
-
-    height: 100%;
-    width: 150px;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    background-color: #000;
-    overflow-x: hidden;
-    padding-top: 25px;
-    color: white;
-}
-
-.sidebar a:hover {
-    background-color: #fff;
-    color: black;
-}
 
 footer {
     border-top: 1px solid #d5d5d5;
