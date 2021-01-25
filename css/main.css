@@ -36,11 +36,11 @@ p {
     position: fixed;
     z-index: 1;
     top: 0;
-    right: 0;
-    background-color: #000;
+    left: 0;
+    background-color: #fff;
     overflow-x: hidden;
     padding-top: 25px;
-    color: white; 
+    color: white;
 }
 
 .sidebar a:hover {
