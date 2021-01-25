@@ -14,11 +14,13 @@ body {
     background-color: #000;
     overflow-x: hidden;
     padding-top: 25px;
-    color: white;
 }
 
 .sidebar a {
-    font-size: 20;
+    font-size: 40;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px; 
 }
 .sidebar a:hover {
     background-color: #fff;
@@ -62,7 +64,7 @@ ul.posts li {
 }
 
 .homebody {
-    width: 100%; 
+    width: 100%;
 }
 
 .logos {
