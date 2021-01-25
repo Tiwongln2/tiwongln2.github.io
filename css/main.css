@@ -7,6 +7,7 @@ body {
 
     height: 100%;
     width: 150px;
+    font-size: 40pt;
     position: fixed;
     z-index: 0;
     top: 0;
@@ -17,10 +18,9 @@ body {
 }
 
 .sidebar a {
-    font-size: 40;
     color: white;
     padding-top: 15px;
-    padding-bottom: 15px; 
+    padding-bottom: 15px;
 }
 .sidebar a:hover {
     background-color: #fff;
@@ -52,15 +52,6 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-}
-
-ul.posts {
-    margin: 20px auto 40px;
-    font-size: 1.5em;
-}
-
-ul.posts li {
-    list-style: none;
 }
 
 .homebody {
