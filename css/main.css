@@ -6,7 +6,7 @@ body {
 .sidebar {
 
     height: 100%;
-    width: 150px;
+    width: 200px;
     font-size: 40pt;
     position: fixed;
     z-index: 0;
