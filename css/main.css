@@ -3,9 +3,6 @@ body {
     width: 70%;
 }
 
-.container {
-    margin-left: 160px; 
-}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -16,13 +13,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-a {
-    text-decoration: none;
-    color: #999;
-}
-a:hover {
-    text-decoration: underline;
-}
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
