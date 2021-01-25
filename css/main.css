@@ -28,6 +28,26 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+
+.sidebar {
+
+    height: 100%;
+    width: 150px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: #000;
+    overflow-x: hidden;
+    padding-top: 25px;
+    color: white; 
+}
+
+.sidebar a:hover {
+    background-color: #fff;
+    color: black;
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
