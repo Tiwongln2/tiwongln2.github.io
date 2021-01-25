@@ -18,7 +18,7 @@ body {
 }
 
 .sidebar a {
-    font-size: 20; 
+    font-size: 20;
 }
 .sidebar a:hover {
     background-color: #fff;
@@ -72,9 +72,7 @@ ul.posts li {
     padding: 20px;
     margin: 5px 2px;
 }
-
-#pic1 {
-    height: 200px;
-    align-self: center;
-
+.side-by-side-vid-image {
+    width: 33%;
+    height: auto; 
 }
