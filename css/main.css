@@ -66,10 +66,10 @@ footer {
     margin: 5px 2px;
 }
 .side-by-side-vid-image {
-    width: 33%;
+    width: 50%;
     height: auto;
 }
 
 #welcome_message {
-    color: blue; 
+    color: blue;
 }
