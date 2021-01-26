@@ -69,3 +69,7 @@ footer {
     width: 33%;
     height: auto;
 }
+
+#welcome_message {
+    color: blue; 
+}
