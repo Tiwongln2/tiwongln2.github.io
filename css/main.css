@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-image: url('../imgs/me/wise-man.jpg');
     background-size: contain;
 }
 
@@ -54,7 +53,7 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     position: fixed;
-    margin-bottom: 0; 
+    margin-bottom: 0;
 }
 
 .homebody {
