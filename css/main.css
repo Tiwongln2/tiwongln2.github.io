@@ -88,5 +88,6 @@ footer {
   color: white;
   height: 300px;
   width: 100%;
+  box-shadow: none; 
 
 }
