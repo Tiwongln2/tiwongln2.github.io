@@ -6,7 +6,7 @@ body {
 
 html {
   box-sizing: border-box;
-  overflow-y: scroll; 
+  overflow-y: scroll;
 }
 
 *, *::before, *::after {
@@ -42,6 +42,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
@@ -51,6 +52,7 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
@@ -75,7 +77,12 @@ footer {
     padding: 20px;
     margin: 5px 2px;
 }
+
 .side-by-side-vid-image {
     width: 50%;
     height: auto;
+}
+
+#self-portrait-wise-man {
+  background-color: black;
 }
