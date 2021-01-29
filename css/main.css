@@ -4,6 +4,14 @@ body {
     background-size: contain;
 }
 
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
 .sidebar {
 
     height: 100%;
