@@ -83,11 +83,31 @@ footer {
     height: auto;
 }
 
+.manhead {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #000;
+}
+
+.middlepart {
+  background: #000;
+  height: 40px;
+  width: 10px;
+  border-radius: 100%;
+  -webkit-transform: scale(2.2, 1.3) skewY(-30deg);
+}
+
+.lhand, .rhand, lhand, rhand {
+  height: 50px; 
+  width: 5px;
+  background: #000;
+}
 #self-portrait-wise-man-and-text {
   background-color: black;
   color: white;
   height: 300px;
   width: 100%;
-  box-shadow: none; 
+  box-shadow: none;
 
 }
