@@ -194,3 +194,9 @@ div.walkingman, div.walkingman > div {
   box-shadow: none;
 
 }
+
+footer {
+
+  height: 20%;
+  width: 100%; 
+}
