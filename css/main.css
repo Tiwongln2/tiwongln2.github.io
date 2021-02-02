@@ -134,6 +134,16 @@ footer {
     margin: 50px auto;
     text-align: center;
 }
+div.walkingman, div.walkingman > div {
+    width: 100px;
+    height: 100px;
+    background: red;
+    -webkit-animation: myfirst 5s alternate infinite ease-out;
+}
+
+@-webkit-keyframes myfirst {
+  from { background: red; } to { background: yellow; }
+}
 
 .body {
   float: left;
