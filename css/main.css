@@ -114,6 +114,36 @@ footer {
   background: #000;
 }
 
+.lhand, .rleg {
+  -webkit-transform-origin: 0 0;
+  -webkit-animation: movement1 0.5s alternate infinte ease-out;
+}
+
+.rhand, .lleg {
+  -webkit-transform-origin: 0 0;
+  -webkit-animation: movement2 0.5s alternate infinite ease-in;
+}
+
+/* for movement 1 */
+@-webkit-keyframes movement 1
+{
+  from {
+  -webkit-transform: rotate(-30deg);
+    }
+    to {
+      -webkit-transform: rotate(30deg);
+    }
+}
+
+/* for movement 2 */
+@-webkit-keyframes movement2 {
+  form {
+    -webkit-transform: rotate(30deg);
+  }
+  to {
+    -webkit-transform: rotate(-30deg); 
+  }
+}
 .lleg, .rleg {
   margin-top: 80px;
   margin-left: -5px;
